@@ -24,11 +24,44 @@ h1 {
 }
 
 #features {
-    padding: 3% 15%;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.feature-box {
+    padding: 5%;
+}
+
+.icon {
+    color: #2D033B;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #C147E9;
 }
 
 #comentators {
     background-color: #810CA8;
     text-align: center;
     color: white;
+}
+
+
+.pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 10px 20px;
+}
+
+.social-icon:hover {
+    color: #C147E9;
 }
