@@ -104,3 +104,12 @@ h1 {
 .social-icon:hover {
     color: #C147E9;
 }
+
+@media (max-width: 1028px) {
+
+    #title {
+        text-align: center;
+    }
+
+    
+}
